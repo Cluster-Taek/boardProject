@@ -11,6 +11,7 @@ spring4.0을 활용하여 게시판을 제작하고 CRUD 구현을 통한 spring
 * 데이터베이스 연동	: myBatis
 * 데이터베이스	: MariaDB 10.5
 * UI	 : Bootstrap 4
+* 서버 : Tomcat 8.5
 
 ## TODO
 * 로그인/로그아웃 페이지 구현
