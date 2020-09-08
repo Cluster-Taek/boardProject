@@ -1,5 +1,5 @@
 # BoardProject
-
+<img src="/path/to/spring.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="spring"></img>
 ## 개발 목표
 spring4.0을 활용하여 게시판을 제작하고 CRUD 구현을 통한 spring 프레임워크 이해
 
