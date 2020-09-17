@@ -1,4 +1,4 @@
-package com.taek.board;
+package com.taek.boardproject;
 
 import java.text.DateFormat;
 import java.util.Date;
